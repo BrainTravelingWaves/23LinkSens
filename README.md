@@ -1,2 +1,2 @@
 # 23LinkSens
-Show links MEG channel
+Show connections in the space of MEG sensors
