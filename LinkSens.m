@@ -1,4 +1,5 @@
-%% Link sensor
+%% Show links in MEG sensor space
+% Load MGG+, MGG- and ecap.
 wrdl={'zavitoy','vozmojn','vzaimny';
       'kudryav','dostupn','dvoyaky';
       'petlaus','pravdop','dvukrat';
